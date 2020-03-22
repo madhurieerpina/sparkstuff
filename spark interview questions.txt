@@ -1,0 +1,62 @@
+1)In how many ways we can tune spark performance n how to perform saprk optimization 
+2)what is meant by data skew
+3)handling data skew in spark
+4)dynamic resource allocation in spark
+5)handling nulls in spark dataframes
+6)how to create dataset from dataframe
+7)how many ways we can create dataframe
+8)how to handle huge tables over the cluster
+9)broadcast join and how it works
+10)broadcast variable and accumulator difference
+11)file formates avro and paraquet difference 
+12) what all compresion techniques we have in saprk
+13) repartition and coalease difference when to use repartitiob n when to use coalease
+14)narrow and wide transformation
+15)various persistent storage levels in saprk
+16)dataframe and dataset difference when to use df and when to use dataset from which version onwards both get merged
+17)how many ways we can create rdd
+18)catalyst optimization in spark n how it works what is logical and physical plan
+19)DAG and LINEAGE in spark
+20) map and flatmap difference
+21) how to join two big tables to improve performance
+22)how to set number of executors for a given spark job
+23)spark submit command what optional aruguments we will pass
+24)lazy evaluation in saprk
+25)sparksql integration with hive
+27) spark integration with hbase
+28)since dataframes are immutable how to change dataframe values
+29)window functions in spark
+30) dataframe joins
+31) static partition and dynamic partition in hive
+32)partitioning and bucketing 
+33)hive performance tuning
+34)difference between external and managed tables
+35)how to create external table from internal
+36)how many ways we can load data into hive tables
+37) difference between hive and hbase
+38)can we change data of an existing hive table
+39)how to add extra partitions on hive partitoned tables
+40) full load incremental load difference
+41)hive and hbase connection why to do that
+42)what is derby database in hive
+43) what is serde
+44)how to add more columns on a single column family
+45) how to write filter query on hbase
+47) how to diaplay multiple column values in a single colum in dataframes
+48) how to retrive single column value in hbase
+49)what all different partitions we have in hive
+50)rowbased and column based storage differences
+51)case classes in scala
+52)closure function in scala
+53) functional programming in scala why scala is functional programming
+54) scala functions
+55) singleton and companion objects difference
+56)higher order functions and its usage ,annonymous fun
+57)option,none,mode in scala
+58) scala stream
+59)what is function currying in scala
+60)how to create dataframe on top of list and tuple 
+
+
+
+

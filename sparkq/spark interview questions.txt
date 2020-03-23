@@ -53,7 +53,7 @@
 55) singleton and companion objects difference
 56)higher order functions and its usage ,annonymous fun
 57)option,none,mode in scala
-58) scala stream
+
 59)what is function currying in scala
 60)how to create dataframe on top of list and tuple 
 
